@@ -1,3 +1,79 @@
+<div align="center">
+  <h1>CMS using Payload and Mongodb</h1>
+</div>
+
+<div align="center">
+  <a href="/README.md">
+    <img 
+      src="https://img.shields.io/badge/Status-Complete-success.svg" 
+      alt="Status" 
+    />
+  </a>
+  <a href="/package.json">
+    <img 
+      src="https://img.shields.io/badge/Version-1.0.0-blue.svg" 
+      alt="Version" 
+    />
+  </a>
+  <a href="/LICENSE">
+    <img 
+      src="https://img.shields.io/badge/License-MIT-green.svg" 
+      alt="License" 
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img 
+      src="https://img.shields.io/badge/TypeScript-4.3.5-blue?style=flat&logo=typescript" 
+      alt="TypeScript 4.3.5" 
+    />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img 
+      src="https://img.shields.io/badge/MongoDB-4.4.6-blue?style=flat&logo=mongodb" 
+      alt="MongoDB 4.4.6" 
+    />
+  </a>
+  <a href="https://expressjs.com/">
+    <img 
+      src="https://img.shields.io/badge/Express-4.17.1-blue?style=flat&logo=express" 
+      alt="Express 4.17.1" 
+    />
+  </a>
+  <a href="https://payloadcms.com/">
+    <img 
+      src="https://img.shields.io/badge/Payload-3.0.0-blue?style=flat&logo=payload" 
+      alt="Payload 3.0.0" 
+    />
+  </a>
+  <a href="https://www.docker.com/">
+    <img 
+      src="https://img.shields.io/badge/Docker-20.10.7-blue?style=flat&logo=docker" 
+      alt="Docker 20.10.7" 
+    />
+  </a>
+</div>
+<br />
+
+This is a project to create a CMS to manage users and products for a store. It is built using a black Payload template CMS, express, typescript and mongodb. 
+
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Tech Stack](#tech-stack)
+- [Payload Blank Template](#payload-blank-template)
+  - [Development](#development)
+    - [Docker](#docker)
+  - [Production](#production)
+    - [Deployment](#deployment)
+  - [Questions](#questions)
+
+# Tech Stack
+- Nodejs
+- Express
+- MongoDB
+- Typescript
+- Payload CMS
+- Docker
+
 # Payload Blank Template
 
 A blank template for [Payload](https://github.com/payloadcms/payload) to help you get up and running quickly. This repo may have been created by running `npx create-payload-app@latest` and selecting the "blank" template or by cloning this template on [Payload Cloud](https://payloadcms.com/new/clone/blank).
