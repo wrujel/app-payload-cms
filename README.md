@@ -54,7 +54,7 @@
 </div>
 <br />
 
-This is a project to create a CMS to manage users and products for a store. It is built using a black Payload template CMS, express, typescript and mongodb. 
+This is a project to create a CMS to manage users and products for a store. It is built using a blank Payload CMS template, express, typescript and mongodb. 
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
